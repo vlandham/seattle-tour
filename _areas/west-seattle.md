@@ -3,6 +3,8 @@ layout: page
 title: West Seattle
 ---
 
+# West Seattle
+
 West Seattle was incorporated in 1902 and annexed to Seattle in 1907. Since the 1880's it had become a popular Sunday recreational destination, with Puget Sound's first ferry line connecting it to Seattle proper in 1888.
 
 **Alki** was the original White settlement of what would become Seattle, before Pioneer Square was picked. The Denny Party landed in November of 1851. The original name of the settlement was "New York Alki", Alki being a Chinook Jargon term meaning "eventually" or "by and by".

@@ -3,6 +3,8 @@ layout: page
 title: Pioneer Square
 ---
 
+# Pioneer Square
+
 Seattle proper founded here in 1852.
 
 By 1885, there were 12,000 people living in a ten block radius from Yesler Way.
@@ -17,7 +19,6 @@ The streets and sidewalks were eventually built at this level, and the first sto
 Pioneer Square is named after small public park, which is actually a triangle.
 
 **Henry Yesler** built first sawmill on the waterfront in Seattle in 1850. Yesler Way is the origin of the term "skid row" - as logs were skidded down this road to the mill. Later this area became associated with gambling and flop houses.
-
 
 **Doc Maynard** was another Seattle founder. He was friends with Chief Sealth, the Suquamish / Duwamish tribe chief who Seattle gets its name from. Maynard claimed a 640 acre tract of land in Pioneer Square. He laid out streets in his claim according to the cardinal directions, but neighboring land owners insisted on following the curve of the sound. Awkward connection between Maynard's claim and the claim that became downtown Seattle can be seen here on Yesler Way.
 
